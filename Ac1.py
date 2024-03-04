@@ -14,8 +14,8 @@ delta= (b**2) - (4*a*c) #Calcular delta
 raiz1= (-b + delta**(0.5)) / (2*a)
 raiz2= (-b - delta**(0.5)) / (2*a)
 
-print(f'A primeira raiz da equação vale:', raiz1)
-print(f'A segunda raiz da equação vale:', raiz2)
+print('A primeira raiz da equação vale:', raiz1)
+print('A segunda raiz da equação vale:', raiz2)
 
 print('-'*30)
 
